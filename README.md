@@ -1,7 +1,7 @@
 # guessing-game-rust
 
 * Installation
-install rust (here)[https://www.rust-lang.org/tools/install]
+install rust [here](https://www.rust-lang.org/tools/install)
 
 * Build
 run this command "rustc main.rs" for creating build and It'll give you a file called main.exe
